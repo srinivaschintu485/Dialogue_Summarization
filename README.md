@@ -15,6 +15,8 @@ Learning Approaches: Employed one-shot and few-shot learning to enhance the mode
 Evaluation and Optimization
 Performance Metrics: Assessed using ROUGE and BLEU scores.
 Optimization Techniques: Experimented with various generation configurations, including adjusting temperature parameters.
+
+
 **Deployment**
 Technologies: Deployed using Docker and Kubernetes for scalability and seamless integration.
 Technologies and Tools Used
@@ -23,10 +25,14 @@ NLP Models: T5 (google/flan-t5-base)
 Programming Languages: Python
 Containerization and Deployment: Docker, Kubernetes
 Evaluation Metrics: ROUGE, BLEU
+
+
 **Outcomes**
 Achieved high accuracy in generating concise, meaningful summaries.
 Enhanced the efficiency of information extraction from extensive dialogue datasets.
 Successfully deployed a scalable and easily integrable summarization system.
+
+
 **Repository Structure**
 data/: Contains the dataset and preprocessing scripts.
 models/: Includes model training and fine-tuning scripts.
